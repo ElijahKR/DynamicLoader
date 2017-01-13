@@ -21,7 +21,6 @@ namespace DynamicLoader
             if (dynamicDomain != null)
             {
                 Type tLoader = typeof(T);
-                //proxy = dynamicDomain.CreateInstanceFrom(tLoader.Assembly.Location, tLoader.FullName).Unwrap() as SubjectProxy;
                 proxy = (T)dynamicDomain.CreateInstanceFrom(
                     tLoader.Assembly.Location, 
                     tLoader.FullName, 

@@ -7,7 +7,7 @@ However, if you open a second application domain to load and execute the assembl
 <br />
 We can also use this technique to isolate those modules that are often modified. So we can implement the application that must run for long periods without restarting.
 
-<img src="https://github.com/ElijahKR/DynamicLoader/blob/master/dynamic_loader.png" />
+<img src="https://github.com/ElijahKR/DynamicLoader/blob/master/dl.png" />
 
 <strong>Reference</strong>
 <br />

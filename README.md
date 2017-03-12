@@ -9,9 +9,11 @@ We can also use this technique to isolate those modules that are often modified.
 
 <img src="https://github.com/ElijahKR/DynamicLoader/blob/master/diagram.png" />
 
-<strong>Reference</strong>
+<h3>Reference</h3>
+<p>
 <a href="https://msdn.microsoft.com/en-us/library/system.appdomain(v=vs.110).aspx" target="_Blank">appdomain<a/>
 <br />
 <a href="http://www.dofactory.com/net/proxy-design-pattern" target="_Blank">proxy-design-pattern<a/>
+</p>
 
 <p>If you have any question, please contact <a href="mailto:Elijah_K@163.com">Elijah_K@163.com</a>.</p>
